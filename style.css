@@ -102,7 +102,7 @@ main {
     height: 280px;
     width: 280px;
     border-radius: 50%;
-    background-image: url(Images/imgi_248_piano-3703616_1280.jpg);
+    background-image: url(Images/1.jpg);
     background-size: cover;
     box-shadow: 2px 2px 10px rgba(93, 92, 92, 0.8), -2px -2px 10px rgba(0, 0, 0, 0.8), -2px -2px 10px rgba(0, 0, 0, 0.8), 2px 2px 10px rgba(0, 0, 0, 0.8);
 }
@@ -133,7 +133,8 @@ main {
 
 #song-duration {
     background-color: red;
-    width: 400px;
+    width: 370px;
+    
 
     /* box-shadow: 2px 2px 10px rgba(93, 92, 92, 0.8), -2px -2px 10px rgba(0, 0, 0, 0.8), -2px -2px 15px rgba(0, 0, 0, 0.8); */
     /* display: flex;
